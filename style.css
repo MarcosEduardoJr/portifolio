@@ -1,0 +1,19 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Open Sans", sans-serif;
+}
+a.icon-block {
+  display: inline-block;
+  width: 10em;
+  float: left;
+  text-align: center;
+}
+
+a {
+  text-decoration: blink !important;
+}
